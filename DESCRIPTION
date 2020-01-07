@@ -14,3 +14,8 @@ LazyData: true
 URL: https://github.com/LizzyParkerPannell/mypackage
 BugReports: https://github.com/LizzyParkerPannell/mypackage/issues
 RoxygenNote: 7.0.2
+Imports: 
+  ggplot2,
+  magrittr,
+  stats
+  

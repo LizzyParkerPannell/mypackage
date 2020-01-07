@@ -3,12 +3,11 @@
 #' @param v a numeric vector
 #'
 #' @return a number
-#' @import stats
 #' @export
 #'
 #' @examples
 #'
 se <- function(v){
   n <- length(v)
-  stats::sd(v) / sqrt(n)
+  sd(v) / sqrt(n)
 }
