@@ -1,6 +1,6 @@
 #' Standard error of a sample
 #'
-#' @param v a vector of numbers
+#' @param v a numeric vector
 #'
 #' @return a number
 #' @import stats

@@ -7,7 +7,7 @@
 se(v)
 }
 \arguments{
-\item{v}{a vector of numbers}
+\item{v}{a numeric vector}
 }
 \value{
 a number
