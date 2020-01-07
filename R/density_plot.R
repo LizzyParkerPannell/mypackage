@@ -1,6 +1,6 @@
 #' Title
 #'
-#' @param v
+#' @param v values
 #'
 #' @return
 # take the export function out if it's an internal function that you don't want users of the function to access
